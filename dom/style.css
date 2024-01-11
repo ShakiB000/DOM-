@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+#bulbe{
+    height: 30vw;
+    width: 30vw;
+    border: 2px solid black;
+    /* background-color: transparent; */
+    border-radius: 50%;
+}
+button{
+    padding: 20px 50px ;
+    font-size: 30px;
+    margin: 100px;
+}
